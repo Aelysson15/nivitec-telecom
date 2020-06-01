@@ -17932,7 +17932,7 @@ a.text-light:hover, a.text-light:focus {
 }
 
 .text-dark {
-  color: #000000 !important;
+  color: #0062cc !important;
 }
 
 a.text-dark:hover, a.text-dark:focus {
@@ -18676,6 +18676,10 @@ section {
 @media (max-width: 991px) {
   .services-box {
     padding: 10px 10px 40px 0;
+  }
+  h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
   }
 }
 
